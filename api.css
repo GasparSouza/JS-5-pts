@@ -1,0 +1,15 @@
+.titulo {
+    color: black; 
+    text-align: center;
+}
+.desc {
+    color: black;
+    text-align: justify;
+}
+
+.ref {
+    background-color: black; 
+}
+.ref {
+    background-color: grey;
+}
